@@ -1,1 +1,0 @@
-# UQ-Yeast-Mating-Model
